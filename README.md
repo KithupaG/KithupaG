@@ -3,7 +3,7 @@
 **Me**
 <br>
 ---
-I'm 16 years old full stack developer.
+I'm a 16 year old full stack developer.
 
   - Currently learning DevOps.
   - VSCode all the way.
