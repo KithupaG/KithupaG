@@ -3,11 +3,9 @@
 **Me**
 <br>
 ---
-I'm a 16 year old full stack developer.
+16 | Building DevOps projects & learning cloud infrastructure
+🏎️ Car enthusiast | 💻 Aspiring DevSecOps engineer
 
-  - Currently learning DevOps.
-  - VSCode all the way.
-    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: gkithupa@gmail.com
