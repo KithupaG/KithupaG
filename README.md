@@ -6,7 +6,9 @@
 16 | Building DevOps projects & learning cloud infrastructure
 <br>
 <br>
-🏎️ Car enthusiast | 💻 Aspiring DevSecOps engineer
+
+- 🏎️ Automotive enthusiast
+- 💻 Aspiring DevSecOps engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
