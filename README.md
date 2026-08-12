@@ -3,12 +3,12 @@
 **Me**
 <br>
 ---
-17 | Building DevOps projects & learning cloud infrastructure
+17 | Building New Stuff
 <br>
 <br>
 
 - 🏎️ Automotive enthusiast
-- 💻 Aspiring DevSecOps engineer
+- 💻 Building new and exciting pojects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
