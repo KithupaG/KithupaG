@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/172132280?s=400&u=e1e848d6a0cb34c3063bc660abc9649883930cbc&v=4" width="150" height="150" align="center" style="border-radius: 50%;" />
+</p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KithupaG/KithupaG/blob/output/github-contribution-grid-snake-dark.svg" />
