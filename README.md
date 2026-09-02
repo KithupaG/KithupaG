@@ -2,12 +2,26 @@
   <h1>Kithupa Gajanayake</h1>
 </div>
 
-<p align="center">
+
+
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/172132280?s=400&u=e1e848d6a0cb34c3063bc660abc9649883930cbc&v=4" width="150" height="150" align="center" style="border-radius: 50%;" />
 
+<!-- <h3>About me:</h3> -->
+  
+<!-- <div align="left">
+
+  I’m Daniel — a software developer with ~7 years of programming experience, primarily in C and C++. I moved from web work into systems and tooling. I enjoy graphics and rendering work as well. Below are representative projects:
+
+  - CPU — low‑level/systems projects.
+  - CWindow — rendering library.
+  - Graphite, Shader_Editor, Fractals, Filters — graphics, shaders and rendering.
+  - Network — networking library.
+</div> -->
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/KithupaG/KithupaG/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KithupaG/KithupaG/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
 </div>
