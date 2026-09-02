@@ -21,7 +21,7 @@
       <td width=50% colspan=2>
         <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KithupaG&theme=github_dark">
       </td>
-    </tr>****
+    </tr>
     <tr width=100%>
       <td width=50%>
         <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KithupaG&theme=github_dark">
