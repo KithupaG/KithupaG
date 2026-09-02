@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/172132280?s=400&u=e1e848d6a0cb34c3063bc660abc9649883930cbc&v=4" width="150" height="150" align="center" style="border-radius: 50%;" />
+</p>
 
 <!-- <h3>About me:</h3> -->
   
@@ -34,7 +35,7 @@
       <td width=50% colspan=2>
         <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KithupaG&theme=github_dark">
       </td>
-    </tr>****
+    </tr>
     <tr width=100%>
       <td width=50%>
         <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KithupaG&theme=github_dark">
